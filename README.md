@@ -6,6 +6,6 @@ CodeFile
 Dataset File from Kaggle 
 
 Checkout the dataset on Kaggle:
-1. 
-2. 
+1. https://www.kaggle.com/sankethpatil/batsman-data
+2. https://www.kaggle.com/sankethpatil/bowler-data
 3. https://www.kaggle.com/sankethpatil/wc-ground-analysis
